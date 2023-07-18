@@ -1,3 +1,4 @@
+![image](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/264cd892-a3cf-4d70-b7b9-bfc2cd4dda1e)
 
  
 # YOLOv5를 이용한 무인 점포 계산 시스템의 구현 
