@@ -16,6 +16,9 @@
 - 본 논문에서는 YOLOv5를 이용하여 바코드가 아닌 이미지 인식을 통해 계산할 수 있는 시스템을 구현하였다. 
 - 초기 이미지 학습은 웹 크롤링과 직접 수집한 데이터를 이용하였고, OpenCV를 이용하여 별도의 라벨링 없이 자동으로 라벨링 해줄 수 있는 물품 등록기능을 추가하였다. 
 - 본 연구를 통해 개선된 시스템은 **기존 결제 시스템보다 결제 시간이 약 20% 단축**되었다.
+
+<br>
+
 <img width="960" alt="image" src="https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/73c7958e-1733-44ee-a49f-10cb86d4bb0e">
 
 <br>
@@ -77,7 +80,10 @@
 
 ## 5. 실험 결과 
 ![image](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/c3aab409-fa97-4f0c-924e-c5ef0e9eeae4)
+<br>
+
 ![image](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/d5751c3f-c124-49f5-bdad-20b26cf1c260)
+<br>
 ![image](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/0de2fbcd-2971-48df-89ce-ae08a8722666)
 
 <br> 
@@ -90,9 +96,9 @@
 
 - 향후 과제:
 
-	- 광량 문제 
+	- 광량 문제 <br>
 	 청명한 날씨에 자연광이 객체를 비추는 상태에서 객체의 상(像)이 카메라에 입사될 경우 개선된 시스템이 인식 어려움 
 
-	- 실제 무인 시스템 구현 
+	- 실제 무인 시스템 구현 <br>
 	본 연구의 무인계산 시스템에 재고관리 시스템이나 판매 수 예측 시스템을 추가해 실제 무인계산 시스템을 구현 
 
