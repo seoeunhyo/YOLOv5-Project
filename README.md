@@ -1,6 +1,5 @@
-![image](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/264cd892-a3cf-4d70-b7b9-bfc2cd4dda1e)
 
- 
+
 # YOLOv5를 이용한 무인 점포 계산 시스템의 구현 
 > 2022-1학기 빅데이터/인공지능 융합전공 캡스톤 디자인 <br>
 > YOLOv5를 이용하여 바코드가 아닌 이미지 인식을 통해 계산할 수 있는 시스템 구현 <br>
@@ -10,6 +9,8 @@
 ## 1. 소개 
 > 진행 기간: 2022. 03 ~ 2022. 06 <br>
 
+
+![image8](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/5cd8c925-d8bd-4178-904b-86485405f936) ![image12](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/df8e37e6-ab02-4a35-a187-29e766376e89)
 
 - 기존 바코드 인식을 통해 물품을 계산하는 시스템은 이용자가 직접 바코드를 찾아 스캔해야 하는 불편함이 있다. 
 - 본 논문에서는 YOLOv5를 이용하여 바코드가 아닌 이미지 인식을 통해 계산할 수 있는 시스템을 구현하였다. 
