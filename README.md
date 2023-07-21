@@ -12,6 +12,7 @@
 
 ![image8](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/5cd8c925-d8bd-4178-904b-86485405f936) ![image12](https://github.com/seoeunhyo/Implementation-of-calculation-system-using-YOLOv5-at-unmanned-store/assets/93567740/df8e37e6-ab02-4a35-a187-29e766376e89)
 
+
 - 기존 바코드 인식을 통해 물품을 계산하는 시스템은 이용자가 직접 바코드를 찾아 스캔해야 하는 불편함이 있다. 
 - 본 프로젝트에서는 YOLOv5를 이용하여 바코드가 아닌 이미지 인식을 통해 계산할 수 있는 시스템을 구현하였다. 
 - 초기 이미지 학습은 웹 크롤링과 직접 수집한 데이터를 이용하였고, OpenCV를 이용하여 별도의 라벨링 없이 자동으로 라벨링 해줄 수 있는 물품 등록기능을 추가하였다. 
@@ -22,7 +23,7 @@
 
 ## 2. 사용 기술 
 
-#### Libraries
+#### Library
 - `yolov5s`
 - `numpy`
 - `OpenCV`
